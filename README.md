@@ -68,5 +68,55 @@ o ns_gm_target: 321 records | 5 columns
 
 **Data Modelling**
 
+![image](https://github.com/user-attachments/assets/e06479da-1e60-48e4-b6a6-ac018927eb2d)
+
+
+**Dashbord designing**
+
+The visuals will be developed in alignment with the mock-ups, and any required measures will be created during the workflow.   
+
+****Home view****
+
+![Screenshot 2025-05-21 211246](https://github.com/user-attachments/assets/7cb1dd27-657d-40d5-bb90-5419081c36f5)
+
+
+
+****Finance view****
+![Screenshot 2025-05-21 211310](https://github.com/user-attachments/assets/728de4f2-8449-44f0-9945-392ba02f8835)
+
+
+
+****sales view****
+
+![Screenshot 2025-05-21 211328](https://github.com/user-attachments/assets/33f5f830-d44e-49c0-8852-a8d5a1729299)
+
+
+****Marketing view****
+
+![Screenshot 2025-05-21 211353](https://github.com/user-attachments/assets/53d65e21-efac-4aaf-9d0f-4fa3afd18847)  
+
+
+****Supply chain view****
+
+![Screenshot 2025-05-21 211416](https://github.com/user-attachments/assets/25250321-9d48-4470-a960-2847b93b737f)
+
+
+
+****excutive view****
+![Screenshot 2025-05-21 211416](https://github.com/user-attachments/assets/0c0036cc-bc92-46b8-9520-375db17ce386)
+
+
+To view full report 
+https://app.powerbi.com/view?r=eyJrIjoiZmM4N2U1NTAtYmYzNC00MGI4LTg3ZWMtZGUwNGJjMzA4OWUxIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+
+
+
+
+
+
+
+
+
+
 
 
